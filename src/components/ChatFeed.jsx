@@ -5,9 +5,7 @@ import TheirMessage from './TheirMessage'
 const ChatFeed = (props) =>{
     console.log(props)
     return(
-        <div> ChatFeed 
-             <div> Chatdeed Div </div>
-        </div>
+        <div> ChatFeed </div>
        
     )
 }
